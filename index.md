@@ -28,9 +28,7 @@ Educación Pública Primaria y Secundaria en Paysandú, Uruguay.
 Ingeniero en Computación, Facultad de Ingeniería, Universidad de la República, Uruguay
 
 `2007-2013`
-Doctor en Informática, Facultad de Ingeniería, Universidad de la República, Uruguay.
-
-Doctorat en Sciences du Langue, École doctorale Connaissance, langage et modélisation, Université Paris 10, Francia.  
+Doctor en Informática, Facultad de Ingeniería, Universidad de la República, Uruguay - Doctorat en Sciences du Langue, École doctorale Connaissance, langage et modélisation, Université Paris 10, Francia.  
 
 
 
