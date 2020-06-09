@@ -47,7 +47,13 @@ Lista completa de publicaciones académicas en [Google Scholar](https://scholar.
 
 `2012` [Towards a public digital infrastructure: why do governments have a responsibility to go open?](https://blog.okfn.org/2012/11/01/towards-a-public-digital-infrastructure-why-do-governments-have-a-responsibility-to-go-open/) - Blog de la Open Knowledge Foundation
 
+### Algunas presentaciones en eventos
 
+`2019` [Industria Uruguaya hacia el 2029](https://www.youtube.com/watch?v=5LnqnFJmQRk) - Almuerzo de trabajo, Asociación de Dirigentes de Marketing
+
+`2017` [20 años de Aprendizaje Automático](https://www.youtube.com/watch?v=L5pUoANxU-o) - Encuentro GeneXus GX27
+
+`2016` [Ciudades inteligentes, ¿para quiénes?](https://www.youtube.com/watch?time_continue=267&v=uCCszXfurUk&feature=emb_logo) - Semana de las Normas Verdes de la UIT
 
 
 <!-- ### Footer
