@@ -13,10 +13,10 @@ Investigador, docente, político, escritor.
 
 
 
-### Actividad Actual
+## Actividad Actual
 __Profesor Adjunto Facultad de Ingeniería, UdelaR. Investigador grado 3 del Pedeciba__. Procesamiento de Lenguaje Natural, Aprendizaje Automático, Ciencia de Datos, Datos y Gobierno Abierto. Políticas públicas vinculadas al desarollo digital y al gobierno abierto. Mi curriculum vitae académico está disponible [aquí](https://exportcvuy.anii.org.uy/cv/?e254cf8bad559f83b8e9128ebe34a4d948ded99a54162baea38124a13171fb8b28224b9429f7847352b97ba0752f4a594942c58749c541e51ed4d0ac1bb754ea)
 
-### Actividad Profesional
+## Actividad Profesional
 `2000 - ` Investigador y Docente de la Universidad de la Republica, Uruguay. 
 
 `2019 - 2020` Ministro de Industria, Energía y Minería de Uruguay
