@@ -6,7 +6,7 @@ title: CV Guillermo Moncecchi
 Investigador, docente, político, escritor.
 
 <div id="webaddress">
-<a href="gmonce@fing.edu.uy">isaac@applesdofall.org</a>
+<a href="gmonce@fing.edu.uy">gmonce@fing.edu.uy</a>
 | <a href="http://www.fing.edu.uy/~gmonce">Página personal en la UdelaR</a>
 </div>
 
