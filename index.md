@@ -52,29 +52,8 @@ Lista completa de publicaciones académicas en [Google Scholar](https://scholar.
  
 `1996 - 2015` Jefe de Desarrollo - División Tecnología de la Información - Intendencia de Montevideo
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Última actualización : Junio de 2020 -->
 
 
