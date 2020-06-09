@@ -49,11 +49,19 @@ Lista completa de publicaciones académicas en [Google Scholar](https://scholar.
 
 ### Algunas presentaciones en eventos
 
-`2019` [Industria Uruguaya hacia el 2029](https://www.youtube.com/watch?v=5LnqnFJmQRk) - Almuerzo de trabajo, Asociación de Dirigentes de Marketing
+`2019` [Industria Uruguaya hacia el 2029](https://www.youtube.com/watch?v=5LnqnFJmQRk) - Almuerzo de trabajo, Asociación de Dirigentes de Marketing, Montevideo, Uruguay.
 
-`2017` [20 años de Aprendizaje Automático](https://www.youtube.com/watch?v=L5pUoANxU-o) - Encuentro GeneXus GX27
+`2017` [20 años de Aprendizaje Automático](https://www.youtube.com/watch?v=L5pUoANxU-o) - Encuentro GeneXus GX27, Montevideo, Uruguay.
 
-`2016` [Ciudades inteligentes, ¿para quiénes?](https://www.youtube.com/watch?time_continue=267&v=uCCszXfurUk&feature=emb_logo) - Semana de las Normas Verdes de la UIT
+`2016` [Ciudades inteligentes, ¿para quiénes?](https://www.youtube.com/watch?time_continue=267&v=uCCszXfurUk&feature=emb_logo) - Semana de las Normas Verdes de la UIT, Montevideo, Uruguay.
+
+`2015`[El paisaje del conocimiento abierto en Uruguay](https://www.youtube.com/watch?time_continue=543&v=uaGdQuNnnXE&feature=emb_logo) - Jornadas de Gestión de la Universidad de la República, Montevideo, Uruguay.
+
+`2014` [Python, Machine Learning y el Titanic](https://www.youtube.com/watch?v=6MZFsZ9HINE) - Tech Meetup Uruguay. 
+
+`2013` [Ciencia de Datos](https://tv.vera.com.uy/video/6136) - 3er foro Avanza para empresas, Montevideo, Uruguay.
+
+`2012` [Datos y Gobierno Abierto](https://www.youtube.com/watch?v=r_6pyOJOma8) - Encuentro de Ciudades Digitales, Buenos Aires, Argentina. 
 
 
 <!-- ### Footer
