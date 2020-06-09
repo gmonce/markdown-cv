@@ -3,7 +3,8 @@ layout: cv
 title: CV Guillermo Moncecchi
 ---
 # Guillermo Moncecchi
-Investigador, docente, político, escritor.
+### Investigador, docente, político, escritor.
+## __Profesor Adjunto Facultad de Ingeniería, UdelaR. Investigador grado 3 del Pedeciba__
 
 <div id="webaddress">
 <a href="gmonce@fing.edu.uy">gmonce@fing.edu.uy</a>
@@ -11,7 +12,6 @@ Investigador, docente, político, escritor.
 </div>
 
 
-__Profesor Adjunto Facultad de Ingeniería, UdelaR. Investigador grado 3 del Pedeciba__
 
 ## En breve
 Primero Subsecretario y luego Ministro de Industria, Energía y Minería de Uruguay desde 2015 a 2020. Investigador en Procesamiento de Lenguaje Natural y Aprendizaje Automático desde hace 20 años. Docente en la Universidad de la República desde el año 2000. Ingeniero en Computación y desarrollador de software desde 1996. 
