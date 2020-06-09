@@ -55,7 +55,7 @@ Lista completa de publicaciones académicas en [Google Scholar](https://scholar.
 
 `2016` [Ciudades inteligentes, ¿para quiénes?](https://www.youtube.com/watch?time_continue=267&v=uCCszXfurUk&feature=emb_logo) - Semana de las Normas Verdes de la UIT, Montevideo, Uruguay.
 
-`2015`[El paisaje del conocimiento abierto en Uruguay](https://www.youtube.com/watch?time_continue=543&v=uaGdQuNnnXE&feature=emb_logo) - Jornadas de Gestión de la Universidad de la República, Montevideo, Uruguay.
+`2015` [El paisaje del conocimiento abierto en Uruguay](https://www.youtube.com/watch?time_continue=543&v=uaGdQuNnnXE&feature=emb_logo) - Jornadas de Gestión de la Universidad de la República, Montevideo, Uruguay.
 
 `2014` [Python, Machine Learning y el Titanic](https://www.youtube.com/watch?v=6MZFsZ9HINE) - Tech Meetup Uruguay. 
 
