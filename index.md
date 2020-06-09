@@ -40,20 +40,8 @@ Lista completa de publicaciones académicas en [Google Scholar](https://scholar.
 `2012` [Towards a public digital infrastructure: why do governments have a responsibility to go open?](https://blog.okfn.org/2012/11/01/towards-a-public-digital-infrastructure-why-do-governments-have-a-responsibility-to-go-open/) - Blog de la Open Knowledge Foundation
 
 
-### Journals
+### Actividad Profesional
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 ## Awards
 
