@@ -30,20 +30,14 @@ Ingeniero en Computación, Facultad de Ingeniería, Universidad de la República
 `2007-2013`
 Doctor en Informática, Facultad de Ingeniería, Universidad de la República, Uruguay - Doctorat en Sciences du Langue, École doctorale Connaissance, langage et modélisation, Université Paris 10, Francia.  
 
+## Publicaciones 
+Lista completa de publicaciones académicas en [Google Scholar](https://scholar.google.com/citations?user=J2I7jQMAAAAJ&hl=es) o en [CV académico](https://exportcvuy.anii.org.uy/cv/?e254cf8bad559f83b8e9128ebe34a4d948ded99a54162baea38124a13171fb8b28224b9429f7847352b97ba0752f4a594942c58749c541e51ed4d0ac1bb754ea)
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+# Artículos de opinión
 
 
 
-## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
 
@@ -59,6 +53,13 @@ etc. etc. etc.
 
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+
+## Awards
+
+`2012`
+President, *Royal Society*, London, UK
+
+Associate, *French Academy of Science*, Paris, France
 
 
 ## Occupation
