@@ -3,14 +3,14 @@ layout: cv
 title: CV Guillermo Moncecchi
 ---
 # Guillermo Moncecchi
-### Investigador, docente, político, escritor.
-### 
+Investigador, docente, político, escritor.
 
 <div id="webaddress">
 <a href="gmonce@fing.edu.uy">Contacto</a>
 | <a href="http://www.fing.edu.uy/~gmonce">Página personal en la UdelaR</a>
  | <a href="https://es.wikipedia.org/wiki/Guillermo_Moncecchi">Página en Wikipedia</a> 
 </div>
+
 
 
 ### Actividad Actual
