@@ -33,10 +33,8 @@ Doctor en Informática, Facultad de Ingeniería, Universidad de la República, U
 ## Publicaciones 
 Lista completa de publicaciones académicas en [Google Scholar](https://scholar.google.com/citations?user=J2I7jQMAAAAJ&hl=es) o en [CV académico](https://exportcvuy.anii.org.uy/cv/?e254cf8bad559f83b8e9128ebe34a4d948ded99a54162baea38124a13171fb8b28224b9429f7847352b97ba0752f4a594942c58749c541e51ed4d0ac1bb754ea)
 
-# Artículos de opinión
-
-
-
+# Algunos artículos de opinión en blogs, periódicos o revistas
+- `2012` [Towards a public digital infrastructure: why do governments have a responsibility to go open?](https://blog.okfn.org/2012/11/01/towards-a-public-digital-infrastructure-why-do-governments-have-a-responsibility-to-go-open/) - Blog de la Open Knowledge Foundation
 
 
 ### Journals
