@@ -4,7 +4,7 @@ title: CV Guillermo Moncecchi
 ---
 # Guillermo Moncecchi
 ### Investigador, docente, político, escritor.
-## __Profesor Adjunto Facultad de Ingeniería, UdelaR. Investigador grado 3 del Pedeciba__
+### Profesor Adjunto Facultad de Ingeniería, UdelaR. Investigador grado 3 del Pedeciba
 
 <div id="webaddress">
 <a href="gmonce@fing.edu.uy">gmonce@fing.edu.uy</a>
