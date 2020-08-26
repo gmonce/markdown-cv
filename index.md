@@ -9,6 +9,7 @@ Investigador, docente, político, escritor.
 <a href="gmonce@fing.edu.uy">Contacto</a>
 | <a href="http://www.fing.edu.uy/~gmonce">Página personal en la UdelaR</a>
  | <a href="https://es.wikipedia.org/wiki/Guillermo_Moncecchi">Página en Wikipedia</a> 
+ | <a href="https://github.com/gmonce/datascience/">Github</a>
 </div>
 
 
@@ -41,6 +42,8 @@ Doctor en Informática, Facultad de Ingeniería, Universidad de la República, U
 Lista completa de publicaciones académicas en [Google Scholar](https://scholar.google.com/citations?user=J2I7jQMAAAAJ&hl=es) o en [CV académico](https://exportcvuy.anii.org.uy/cv/?e254cf8bad559f83b8e9128ebe34a4d948ded99a54162baea38124a13171fb8b28224b9429f7847352b97ba0752f4a594942c58749c541e51ed4d0ac1bb754ea)
 
 ## Algunos artículos de opinión en blogs, diarios o revistas
+`2020` [Uruguay’s COVID-19 contact tracing app reveals the growing importance of data governance frameworks](https://blogs.lse.ac.uk/latamcaribbean/2020/08/26/uruguays-covid-19-contact-tracing-app-reveals-the-growing-importance-of-data-governance-frameworks/) - con Fabrizio Scrollini, Javer Baliosian, Lorena Etcheverry - London School of Economics - Latin America and Caribbean Centre
+
 `2019` [Acuerdo Mercosur-Unión Europea: elevar la mira](https://ladiaria.com.uy/articulo/2019/7/acuerdo-mercosur-union-europea-elevar-la-mira/) - La Diaria - Uruguay
 
 `2018` [Preguntas para una democracia ¿digital?](https://ladiaria.com.uy/articulo/2018/7/preguntas-para-una-democracia-digital/) - La Diaria - Uruguay
