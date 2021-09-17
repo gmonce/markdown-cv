@@ -1,48 +1,47 @@
 ---
 layout: cv
-title: Guillermo Moncecchi CV
+title: CV Guillermo Moncecchi
 ---
 # Guillermo Moncecchi
+Investigador, docente, político, escritor.
 
 <div id="webaddress">
-<a href="gmonce@fing.edu.uy">Contact</a>
-| <a href="http://www.fing.edu.uy/~gmonce">Personal page at UdelaR</a>
- | <a href="https://es.wikipedia.org/wiki/Guillermo_Moncecchi">Wikipedia</a> 
+<a href="gmonce@fing.edu.uy">Contacto</a>
+| <a href="http://www.fing.edu.uy/~gmonce">Página personal en la UdelaR</a>
+ | <a href="https://es.wikipedia.org/wiki/Guillermo_Moncecchi">Página en Wikipedia</a> 
  | <a href="https://github.com/gmonce/datascience/">Github</a>
 </div>
 
 
 
-## Research Activity
-__Adjunct Professor, Facultad de Ingeniería, Universidad de la República, Uruguay. Pedeciba Researcher Gr. 3__. 
-Natural Language Processing, Machine Learning, Data Science, Open Data, Open Government. Public policites towards digital development and 
-open government. My academic CV is avaliable [here](https://exportcvuy.anii.org.uy/cv/?e254cf8bad559f83b8e9128ebe34a4d948ded99a54162baea38124a13171fb8b28224b9429f7847352b97ba0752f4a594942c58749c541e51ed4d0ac1bb754ea)
+## Actividad Actual
+__Profesor Adjunto Facultad de Ingeniería, UdelaR. Investigador grado 3 del Pedeciba__. Procesamiento de Lenguaje Natural, Aprendizaje Automático, Ciencia de Datos, Datos y Gobierno Abierto. Políticas públicas vinculadas al desarollo digital y al gobierno abierto. Mi curriculum vitae académico está disponible [aquí](https://exportcvuy.anii.org.uy/cv/?e254cf8bad559f83b8e9128ebe34a4d948ded99a54162baea38124a13171fb8b28224b9429f7847352b97ba0752f4a594942c58749c541e51ed4d0ac1bb754ea)
 
-## Professional Activity
-`2000 - ` Researcher and Teacher - Universidad de la República, Uruguay. 
+## Actividad Profesional
+`2000 - ` Investigador y Docente de la Universidad de la Republica, Uruguay. 
 
-`2020 - ` General Director - Environment Development, Montevideo, Uruguay. 
+`2019 - 2020` Ministro de Industria, Energía y Minería de Uruguay
 
-`2019 - 2020` Ministry of Industry, Energy, and Mining. Uruguay
+`2015 - 2019` Subsecretario de Industria, Energía y Minería de Uruguay
 
-`2015 - 2019` Deputy Ministry of Industry, Energy, and Mining. Uruguay
-
-`2015 - 2017` Member of the Board of the National Research and Innovation Agency. Uruguay.
+`2015 - 2017` Director de la Agencia Naciona de Investigación e Innovación, Uruguay.
  
-`1996 - 2015` Head Developer - Intendencia de Montevideo, Uruguay
+`1996 - 2015` Jefe de Desarrollo - División Tecnología de la Información - Intendencia de Montevideo
 
-## Education
+## Formación
+`1985-1990`
+Educación Pública Primaria y Secundaria en Paysandú, Uruguay.
 
 `1991-1997`
-Computer Engineer, Facultad de Ingeniería, Universidad de la República, Uruguay
+Ingeniero en Computación, Facultad de Ingeniería, Universidad de la República, Uruguay
 
 `2007-2013`
-PhD. in Computer Science, Facultad de Ingeniería, Universidad de la República, Uruguay - Doctorat en Sciences du Langue, École doctorale Connaissance, langage et modélisation, Université Paris 10, France.  
+Doctor en Informática, Facultad de Ingeniería, Universidad de la República, Uruguay - Doctorat en Sciences du Langue, École doctorale Connaissance, langage et modélisation, Université Paris 10, Francia.  
 
-## Publications 
-Complete list of publications in [Google Scholar](https://scholar.google.com/citations?user=J2I7jQMAAAAJ&hl=es) or in my [academic CV](https://exportcvuy.anii.org.uy/cv/?e254cf8bad559f83b8e9128ebe34a4d948ded99a54162baea38124a13171fb8b28224b9429f7847352b97ba0752f4a594942c58749c541e51ed4d0ac1bb754ea)
+## Publicaciones 
+Lista completa de publicaciones académicas en [Google Scholar](https://scholar.google.com/citations?user=J2I7jQMAAAAJ&hl=es) o en [CV académico](https://exportcvuy.anii.org.uy/cv/?e254cf8bad559f83b8e9128ebe34a4d948ded99a54162baea38124a13171fb8b28224b9429f7847352b97ba0752f4a594942c58749c541e51ed4d0ac1bb754ea)
 
-## Some position articles
+## Algunos artículos de opinión en blogs, diarios o revistas
 `2020` [Uruguay’s COVID-19 contact tracing app reveals the growing importance of data governance frameworks](https://blogs.lse.ac.uk/latamcaribbean/2020/08/26/uruguays-covid-19-contact-tracing-app-reveals-the-growing-importance-of-data-governance-frameworks/) - con Fabrizio Scrollini, Javer Baliosian, Lorena Etcheverry - London School of Economics - Latin America and Caribbean Centre
 
 `2019` [Acuerdo Mercosur-Unión Europea: elevar la mira](https://ladiaria.com.uy/articulo/2019/7/acuerdo-mercosur-union-europea-elevar-la-mira/) - La Diaria - Uruguay
@@ -51,7 +50,7 @@ Complete list of publications in [Google Scholar](https://scholar.google.com/cit
 
 `2012` [Towards a public digital infrastructure: why do governments have a responsibility to go open?](https://blog.okfn.org/2012/11/01/towards-a-public-digital-infrastructure-why-do-governments-have-a-responsibility-to-go-open/) - Blog de la Open Knowledge Foundation
 
-## Presentations at events
+## Algunas presentaciones en eventos
 
 `2019` [Industria Uruguaya hacia el 2029](https://www.youtube.com/watch?v=5LnqnFJmQRk) - Almuerzo de trabajo, Asociación de Dirigentes de Marketing, Montevideo, Uruguay.
 
@@ -70,6 +69,6 @@ Complete list of publications in [Google Scholar](https://scholar.google.com/cit
 
 <!-- ### Footer
 
-Last update : September 2021 -->
+Última actualización : Junio de 2020 -->
 
 
