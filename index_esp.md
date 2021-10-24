@@ -20,13 +20,15 @@ __Profesor Adjunto Facultad de Ingeniería, UdelaR. Investigador grado 3 del Ped
 ## Actividad Profesional
 `2000 - ` Investigador y Docente de la Universidad de la Republica, Uruguay. 
 
+`2020 - ` Director de Desarriollo Ambiental, Intendencia de Montevideo
+
 `2019 - 2020` Ministro de Industria, Energía y Minería de Uruguay
 
 `2015 - 2019` Subsecretario de Industria, Energía y Minería de Uruguay
 
 `2015 - 2017` Director de la Agencia Naciona de Investigación e Innovación, Uruguay.
  
-`1996 - 2015` Jefe de Desarrollo - División Tecnología de la Información - Intendencia de Montevideo
+`1996 - 2015` Jefe de Desarrollo, División Tecnología de la Información, Intendencia de Montevideo
 
 ## Formación
 `1985-1990`
