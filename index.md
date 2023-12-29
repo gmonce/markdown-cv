@@ -58,6 +58,12 @@ Lista completa de publicaciones académicas en [Google Scholar](https://scholar.
 
 ## Algunas presentaciones en eventos
 
+`2023` [Introducción a la Inteligencia Artificial](https://www.youtube.com/watch?v=uJnhDJKwZSo) - Junto con Álvaro Cabana - En el marco del Ciclo de Conferencias "Inteligencia Artificial y Educación" organizadas por la UdelaR y ANEP
+
+`2023` [Panel: ChatGPT y otras IA: oportunidades y amenazas para la enseñanza](https://www.youtube.com/watch?v=4JlgPas8iEo) - Panel organizado por la Facultad de Ciencias Económicas y de Administración de la UdelaR
+
+`2023` [IA: entre el humo y la realidad](https://www.uniradio.edu.uy/2023/05/rasca-la-cascara-01-ia-entre-el-humo-y-la-realidad/) - Entrevista en el programa "Rascá la Cáscara" de UniRadio
+
 `2021` [Panel Inteligencia Artificial](https://www.youtube.com/watch?v=pzFpdhJZyTk) - Abrelatam ConDatos del Futuro, Iniciativa Latinoamericana para los Datos Abiertos.
 
 `2019` [Industria Uruguaya hacia el 2029](https://www.youtube.com/watch?v=5LnqnFJmQRk) - Almuerzo de trabajo, Asociación de Dirigentes de Marketing, Montevideo, Uruguay.
