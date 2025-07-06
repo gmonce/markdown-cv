@@ -21,7 +21,7 @@ open government. My academic CV is avaliable [here](https://exportcvuy.anii.org.
 ## Professional Activity
 `2000 - ` Researcher and Teacher - Universidad de la República, Uruguay. 
 
-`2020 - ` General Director - Environment Development, Montevideo, Uruguay. 
+`2020 - 2025` General Director - Environment Development, Montevideo, Uruguay. 
 
 `2019 - 2020` Ministry of Industry, Energy, and Mining. Uruguay
 
