@@ -58,6 +58,8 @@ Lista completa de publicaciones académicas en [Google Scholar](https://scholar.
 
 ## Algunas presentaciones en eventos
 
+`2025` [Ingenería de Software y Grandes Modelos de Lenguaje](https://anteltv.com.uy/play/2sss23mr#) - En el marco de las charlasd InspiraTech, organizadas por Antel.
+
 `2023` [Introducción a la Inteligencia Artificial](https://www.youtube.com/watch?v=uJnhDJKwZSo) - Junto con Álvaro Cabana - En el marco del Ciclo de Conferencias "Inteligencia Artificial y Educación" organizadas por la UdelaR y ANEP
 
 `2023` [Panel: ChatGPT y otras IA: oportunidades y amenazas para la enseñanza](https://www.youtube.com/watch?v=4JlgPas8iEo) - Panel organizado por la Facultad de Ciencias Económicas y de Administración de la UdelaR
