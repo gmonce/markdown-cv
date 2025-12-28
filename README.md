@@ -1,12 +1,16 @@
 # markdown-cv
 
-A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
 
-Queda publicado [aquí](https://gmonce.github.io/markdown-cv/). (hay versión en inglés y español, es cambiar el nombre del archivo para que el index sea el que queremos). Lo que sale es el index, ojo. Hay que cambiar en todos lados
+Procedimiento: 
 
-Ojo: hay que borrar al final la rama gh-pages y crearla de nuevo para que se actualice la página
+- Hacer los cambios en index.md
+- Borrar la rama gh-pages y crearla de nuevo.
+- Queda publicado [aquí](https://gmonce.github.io/markdown-cv/).
+
+Si queremos cambiar la versión a inglés, es actualizar y renombrar el archivo index-en a index (ojo que antes hay que respaldar el de español, por las dudas de que no esté actualizado)
 
 ## Distribution
+A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
 
 To transform your plain text CV into a beautiful and shareable HTML page, you have two options:
 
