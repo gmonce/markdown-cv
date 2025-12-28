@@ -7,7 +7,7 @@ Procedimiento:
 - Borrar la rama gh-pages y crearla de nuevo.
 - Queda publicado [aquí](https://gmonce.github.io/markdown-cv/).
 
-Si queremos cambiar la versión a inglés, es actualizar y renombrar el archivo index-en a index (ojo que antes hay que respaldar el de español, por las dudas de que no esté actualizado)
+Si queremos cambiar la versión a inglés, es actualizar y renombrar el archivo index-eng a index (ojo que antes hay que respaldar el de español, por las dudas de que no esté actualizado). Para pasar a español... es lo mismo.
 
 ## Distribution
 A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
