@@ -2,7 +2,7 @@
 
 A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
 
-[https://gmonce.github.io/markdown-cv/] (hay versión en inglés y español, es cambiar el nombre del archivo para que el index sea el que queremos). Lo que sale es el index, ojo. Hay que cambiar en todos lados
+Queda publicado en (https://gmonce.github.io/markdown-cv/) (hay versión en inglés y español, es cambiar el nombre del archivo para que el index sea el que queremos). Lo que sale es el index, ojo. Hay que cambiar en todos lados
 
 Ojo: hay que borrar al final la rama gh-pages y crearla de nuevo para que se actualice la página
 
